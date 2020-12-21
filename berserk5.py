@@ -1,3 +1,18 @@
+"""
+Copyright 2020 SpectralDoy.
+
+This file is part of Berserk5 (https://github.com/spectraldoy/Berserk5). 
+
+Berserk5 is open-source software licensed under the terms of the GNU General Public License v3.0.
+
+Berserk5 is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License 
+as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
+Berserk5 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty 
+of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
+A copy of this license can be found within the GitHub repository (https://github.com/spectraldoy/Berserk5) for Berserk5, 
+or at https://www.gnu.org/licenses/gpl-3.0.html."
+"""
+
 import time
 from random import *
 
