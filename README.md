@@ -3,4 +3,4 @@ This repo contains a game I wrote a while back in Python using John Zelle's `gra
 
 The game is best played with a trackpad. At each level, you have 10 seconds to tap or click the circle as many times as is specified in the upper right corner. There are 20 levels, and the circle will move faster and more randomly with each level. In normal mode, you must click the circle 10 times each level, but in berserk mode the number of times to click the circle will increase, and the radius of the circle will decrease, with each level. The circle will also move faster and more randomly in berserk mode.
 
-I will warn anyone who tries to read the source file that there are no comments and only poorly named variables. Still, the game is quite fun.
+I will warn anyone who tries to read the source file that there are no comments and only poorly named variables. Still, the game is quite fun, though it does lack some functionality.
